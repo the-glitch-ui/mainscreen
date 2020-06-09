@@ -13,7 +13,7 @@
 
 ## General info
 
-Multidisciplinar exercise which involves designing and coding a styled main page featuring a simple GreenSock SVG animation.
+Multidisciplinary exercise which involves designing and coding a styled main page featuring a simple GreenSock SVG animation.
 
 ## Screenshots
 
