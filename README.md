@@ -1,4 +1,4 @@
-# Main login screen with a simple GreenSock animation
+# Main screen with a simple GreenSock animation
 > Demo: https://the-glitch-ui.github.io/mainscreen/
 
 ## Table of contents
