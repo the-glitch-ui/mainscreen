@@ -39,15 +39,7 @@ Current features:
 
 1. JavaScript / GreenSock
 
-   - SVG animation:
-   -- fromTo
-   -- delay
-   -- duration
-   -- ease
-   -- scale
-   -- opacity
-   -- repeaat
-   -- motionPath
+   - SVG animation: fromTo, delay, duration, ease, scale, opacity, repeat, motionPath
 
 2. HTML5 & CSS3
 
